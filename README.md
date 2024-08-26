@@ -1,6 +1,6 @@
-# Demo1
+# Happy Hour
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.x.x.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.x.x.
 
 ## Development server
 
